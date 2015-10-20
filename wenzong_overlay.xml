@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<repositories version="1.0">
+	<repo priority="50" quality="experimental" status="unofficial">
+		<name>wenzong_overlay</name>
+		<homepage>http://github.com/wenzong/overlay</homepage>
+		<owner>
+			<email>ahngzwz@gmail.com</email>
+		</owner>
+		<source type="git">https://github.com/wenzong/overlay</source>
+	</repo>
+</repositories>
